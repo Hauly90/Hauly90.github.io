@@ -1,0 +1,54 @@
+main, button  {
+  
+  font-family: 'Baloo Paaji 2', cursive;  
+  
+}
+
+
+p {
+  
+  font-size: 40px;
+  font-weight: bold;
+
+}
+
+h1 { 
+	background: red;
+	color: white;
+  margin: 40px;
+  border: 5px solid pink;
+  padding: 40px;
+  width: 300px;
+  /* The whole length of this box is: 40+5+40+300+40+5+40 = 470 */  
+  height: 60px;
+}
+
+input, label {
+  
+  display: block;
+  
+}
+
+li {
+  background: blue;
+  display: inline;
+  
+}
+
+strong {
+  background: green;
+  
+}
+
+.purple {
+  
+  background: purple;
+  
+}
+
+#username_input_field {
+  
+  background: lime
+  
+
+}
