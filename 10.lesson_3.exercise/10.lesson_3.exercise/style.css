@@ -1,0 +1,30 @@
+h1 {
+  color: orange;
+  
+}
+
+h2 {
+  color: violet;
+  
+}
+
+p {
+  font-weight: bold
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
+.violet {
+  color: violet;
+  text-decoration: underline;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+}
